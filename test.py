@@ -97,7 +97,7 @@ reshpe"""
 # print(numbers)
 
 #v------------------------------------------
-""" To Find the age dofference between two arrays """
+""" To Find the age difference between two arrays """
 # town_a_ages = np.array([25, 45, 70, 34, 58])
 # town_b_ages = np.array([30, 55, 65, 40, 60])
 
